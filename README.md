@@ -1,0 +1,2 @@
+# djaml
+Django ML template
